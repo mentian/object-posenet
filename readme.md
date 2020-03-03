@@ -2,7 +2,7 @@
 ![demo](assets/ycb_demo.png)
 
 ## Overview
-This is an implementation of our ICRA2020 paper (arXiv). Given RGB-D images, our model predicts the 6D pose of each object in the scene.
+This is an implementation of our ICRA2020 paper ([arXiv](http://arxiv.org/abs/2003.00188)). Given RGB-D images, our model predicts the 6D pose of each object in the scene.
 ![approach](assets/network.png)
 
 ## Dependencies
