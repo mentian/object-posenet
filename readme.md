@@ -96,12 +96,11 @@ run show_pose_results.m
 ## Citation
 If you find our work helpful, please consider citing:
 ```
-@inproceedings{tian2020robust,
+@article{tian2020robust,
   title={Robust 6D Object Pose Estimation by Learning RGB-D Features},
   author={Tian, Meng and Pan, Liang and Ang Jr, Marcelo H and Lee, Gim Hee},
-  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2020},
-  organization={IEEE}
+  journal={arXiv preprint arXiv:2003.00188},
+  year={2020}
 }
 ```
 
