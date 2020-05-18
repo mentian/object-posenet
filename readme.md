@@ -105,4 +105,4 @@ If you find our work helpful, please consider citing:
 ```
 
 ## Acknowledgment
-Our code is largely adapted form [DenseFusion](https://github.com/j96w/DenseFusion). The ransac voting layer is modified from [PVNet](https://github.com/zju3dv/pvnet/tree/master/lib/ransac_voting_gpu_layer).
+Our code is largely adapted from [DenseFusion](https://github.com/j96w/DenseFusion). The ransac voting layer is modified from [PVNet](https://github.com/zju3dv/pvnet/tree/master/lib/ransac_voting_gpu_layer).
