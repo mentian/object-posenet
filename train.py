@@ -45,7 +45,7 @@ def main():
         opt.num_objects = 13
         opt.num_points = 500
         opt.result_dir = 'results/linemod'
-        opt.repeat_epoch = 1
+        opt.repeat_epoch = 10
     else:
         print('unknown dataset')
         return
